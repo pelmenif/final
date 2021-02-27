@@ -1,0 +1,45 @@
+ul {
+  list-style-type: square;
+  background: #3399ff;
+  padding: 15px;
+}
+ul li {
+  background: #cce5ff;
+  padding: 5px;
+  margin: 5px 0 0 35px;
+}
+
+ol {
+  background: #ff9999;
+  padding: 15px;
+}
+ol li {
+  background: #ffe5e5;
+  padding: 5px;
+  margin: 5px 0 0 35px;
+}
+<img src="">
+body {
+  padding: 15px;
+  font-size: medium;
+}
+h1 {
+  margin: 5px 20px;
+  font-size: 60px;
+  color: #365d7a;
+}
+img {
+  width: 300px;
+  margin: 5px;
+  border-radius: 12px;
+  box-shadow: 2px 2px 1px 1px #b2b2b2;
+}
+body{
+   background-attachment: fixed;
+  background-image: url(https://cdnimg.rg.ru/i/gallery/2cff9087/1_cbc57cab.jpg);
+   background-attachment: fixed;
+background-size: cover;  
+  /* background-size: 500px 200px;*/
+  background-repeat:no-repeat;
+}
+  h1{color:#3ef956}  
